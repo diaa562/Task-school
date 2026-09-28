@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Task-school/static/css/main.8bb6d9c0.css",
-    "main.js": "/Task-school/static/js/main.8faedae0.js",
+    "main.js": "/Task-school/static/js/main.5973764d.js",
     "static/media/—Pngtree—decorative egypt flag on border_6853461.png": "/Task-school/static/media/—Pngtree—decorative egypt flag on border_6853461.32a7610f1056e36332ad.png",
     "static/media/—Pngtree—egypt flag curved_6671397.png": "/Task-school/static/media/—Pngtree—egypt flag curved_6671397.83457c054b33bbc76e12.png",
     "static/media/WhatsApp Image 2026-09-28 at 8.08.52 PM.jpeg": "/Task-school/static/media/WhatsApp Image 2026-09-28 at 8.08.52 PM.d1cecc6bf6daa60d4495.jpeg",
@@ -9,10 +9,10 @@
     "static/media/Coat_of_arms_of_Egypt_(Official).png": "/Task-school/static/media/Coat_of_arms_of_Egypt_(Official).9e10ef0d31f0316349a2.png",
     "index.html": "/Task-school/index.html",
     "main.8bb6d9c0.css.map": "/Task-school/static/css/main.8bb6d9c0.css.map",
-    "main.8faedae0.js.map": "/Task-school/static/js/main.8faedae0.js.map"
+    "main.5973764d.js.map": "/Task-school/static/js/main.5973764d.js.map"
   },
   "entrypoints": [
     "static/css/main.8bb6d9c0.css",
-    "static/js/main.8faedae0.js"
+    "static/js/main.5973764d.js"
   ]
 }
